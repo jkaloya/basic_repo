@@ -1,0 +1,23 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 825px;
+ margin: 0px auto;
+}
+#content{
+    display: block;
+    background-color: #000000;
+}
+img{
+    display: block;
+    border: 5px solid #A8A8A8;
+}
+h1{
+    margin-bottom: 10px;
+}
+.white{
+    color: #FFFFFF;
+}
